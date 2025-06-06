@@ -1,5 +1,5 @@
-Steps to learn K8s 
-
+Steps to learn K8s in easy way
+ 
 
 Imperative/Declarative -> sample pod -> nginx 
 
